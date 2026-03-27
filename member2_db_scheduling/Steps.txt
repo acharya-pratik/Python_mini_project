@@ -1,4 +1,5 @@
-STEP1: Download MySQL workbench installer(web)(2.1mb) and use chatgpt so we are able to install my sql server 8.0
+For workbench use. You can use phpmy admin just change info about host,user, password etc
+STEP1: Download MySQL workbench installer(web)(2.1mb)
 Open MySQL Workbench.
 
 Click the (+) icon next to "MySQL Connections."
