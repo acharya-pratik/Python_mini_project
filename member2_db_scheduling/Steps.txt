@@ -1,0 +1,23 @@
+STEP1: Download MySQL workbench installer(web)(2.1mb) and use chatgpt so we are able to install my sql server 8.0
+Open MySQL Workbench.
+
+Click the (+) icon next to "MySQL Connections."
+
+Connection Name: Healthcare_Project
+
+Hostname: 127.0.0.1
+
+Port: 3306
+
+Username: root
+
+Click Store in Vault and enter your password: rAmram12#@123
+
+Click Test Connection.
+
+Now click file and new query and open schema.sql and click lightning bolt icon.
+
+Step2. Use python script and import necessary library
+pip install pandas sqlalchemy mysql-connector-python apscheduler
+
+Step 3 . Run schedule.py
