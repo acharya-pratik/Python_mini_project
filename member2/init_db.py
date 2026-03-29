@@ -1,4 +1,11 @@
+import os
+import sys
 from config.db_config import get_connection
+
+# Add project root to sys.path
+root_path = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
+if root_path not in sys.path:
+    sys.path.append(root_path)
 
 def run_schema():
     conn = get_connection()

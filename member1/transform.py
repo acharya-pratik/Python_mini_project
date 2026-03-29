@@ -8,12 +8,15 @@ def clean_text(df):
     ]
 
     for col in cols:
-        df[col] = df[col].astype(str).str.strip().str.title()
+        if col in df.columns:
+            df.loc[:, col] = df[col].astype(str).str.strip().str.title()
 
     return df
 
 
 def transform_data(df):
+    # Ensure we work on a copy to avoid SettingWithCopyWarning
+    df = df.copy()
 
     # Remove duplicates
     df = df.drop_duplicates()
@@ -22,10 +25,10 @@ def transform_data(df):
     df = clean_text(df)
 
     # Convert types
-    df['Date of Admission'] = pd.to_datetime(df['Date of Admission'])
-    df['Discharge Date'] = pd.to_datetime(df['Discharge Date'])
+    df.loc[:, 'Date of Admission'] = pd.to_datetime(df['Date of Admission'])
+    df.loc[:, 'Discharge Date'] = pd.to_datetime(df['Discharge Date'])
 
-    df['Billing Amount'] = df['Billing Amount'].astype(float)
-    df['Age'] = df['Age'].astype(int)
+    df.loc[:, 'Billing Amount'] = df['Billing Amount'].astype(float)
+    df.loc[:, 'Age'] = df['Age'].astype(int)
 
     return df

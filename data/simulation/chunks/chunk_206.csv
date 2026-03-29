@@ -1,0 +1,251 @@
+Name,Age,Gender,Blood Type,Medical Condition,Date of Admission,Doctor,Hospital,Insurance Provider,Billing Amount,Room Number,Admission Type,Discharge Date,Medication,Test Results
+SaManthA WILLIamS,64,Male,A+,Diabetes,2020-12-27,April Berger,"Wolfe, Mathis Smith and",Medicare,27255.896669415717,497,Emergency,2021-01-05,Aspirin,Inconclusive
+JoSHuA webB,43,Male,A+,Arthritis,2020-09-14,Richard Morales,Deleon-Boyd,Aetna,6212.3210608749805,108,Emergency,2020-10-05,Aspirin,Abnormal
+jOhN JEnSeN,29,Male,O-,Cancer,2022-06-27,Kristen Lopez,Group Parsons,Aetna,41666.570943366845,377,Emergency,2022-07-22,Penicillin,Inconclusive
+DaviD PERRY,42,Female,B+,Arthritis,2022-05-08,Jason Krueger,"and Evans, Mccann Thomas",Medicare,36129.83829158581,269,Elective,2022-05-29,Lipitor,Inconclusive
+mElisSA DEaN,24,Female,A+,Asthma,2019-09-24,Douglas Lewis MD,Inc Greene,Cigna,36577.33650053013,234,Elective,2019-10-02,Lipitor,Abnormal
+GLenn alleN JR.,32,Female,A-,Hypertension,2023-04-18,David Hubbard,Ortiz-Castro,Cigna,20320.826620152427,111,Emergency,2023-04-29,Penicillin,Abnormal
+anN gaRcIA,48,Female,O-,Cancer,2019-12-08,Melinda Solomon,PLC Schmidt,Blue Cross,2844.4779087536103,138,Emergency,2020-01-02,Penicillin,Abnormal
+MIChaEl taylor,53,Female,B-,Cancer,2021-03-21,Dr. Jessica Collins DDS,Morales Group,Medicare,19300.059467304694,488,Emergency,2021-04-19,Aspirin,Inconclusive
+jaCOb tHOmas,43,Female,AB+,Arthritis,2020-10-03,Tony Combs,LLC Henderson,Medicare,49110.12538714857,489,Urgent,2020-10-20,Penicillin,Abnormal
+ReBEkAh SaNdOVAL,75,Male,AB+,Cancer,2024-04-04,Megan Gomez,"Lee, Gonzalez Mckay and",Cigna,9303.205748246171,311,Emergency,2024-04-07,Paracetamol,Inconclusive
+cHriSTine MCcalL,76,Female,AB+,Hypertension,2021-12-05,Eric Vasquez,"Ashley, Barnes Castillo and",Blue Cross,45475.34999118505,253,Urgent,2021-12-24,Aspirin,Inconclusive
+RAyMONd smITH,18,Female,B+,Hypertension,2022-02-19,Paul Acevedo,Bauer-Santos,Blue Cross,45238.6116422498,266,Elective,2022-03-08,Ibuprofen,Inconclusive
+LiNDA BAUEr,51,Male,A+,Cancer,2019-09-24,Daniel Browning,"Mason Freeman and Gray,",UnitedHealthcare,47054.41002653471,283,Elective,2019-10-24,Paracetamol,Inconclusive
+lINDA AdAMS,53,Female,AB-,Asthma,2024-02-14,Billy Gonzalez,Castaneda-Williams,Blue Cross,22950.197514281565,160,Elective,2024-03-15,Paracetamol,Inconclusive
+Seth hERNaNdeZ,72,Female,B+,Cancer,2019-11-15,Kelsey Gray,Ayers-Hess,Aetna,19048.81199243456,498,Elective,2019-11-18,Aspirin,Normal
+aNGIe ricHarDsOn,79,Female,AB-,Asthma,2022-08-19,Karen Buchanan,Long Group,UnitedHealthcare,6137.856602795952,103,Emergency,2022-08-22,Lipitor,Inconclusive
+BArRY BUrnS,81,Male,AB-,Hypertension,2019-06-06,Lori Norton,Ramirez Group,Cigna,47408.13717003617,405,Emergency,2019-06-10,Paracetamol,Normal
+JAReD WRIGht,73,Male,O+,Asthma,2021-02-05,Jenna Holland,PLC Ryan,UnitedHealthcare,45620.27974441019,379,Urgent,2021-03-03,Aspirin,Abnormal
+AShlEy joNES,38,Female,O-,Asthma,2019-12-10,Javier Coffey,"Lopez and Carter Thomas,",UnitedHealthcare,48763.50260674658,120,Emergency,2020-01-01,Lipitor,Normal
+rEBeccA COLeMAn,81,Male,B-,Asthma,2022-03-23,Dave Davis,Atkins-Clements,UnitedHealthcare,4511.307275221357,116,Urgent,2022-04-03,Lipitor,Normal
+dEanna WillIaMs,84,Female,A-,Arthritis,2020-08-26,Alex Dominguez,PLC Bishop,Blue Cross,37270.53671994004,465,Emergency,2020-09-12,Penicillin,Normal
+jOshuA dAViD,69,Male,AB-,Obesity,2019-07-14,Heather Sanders,"Bell and Cook, Kemp",UnitedHealthcare,34775.071186772526,198,Elective,2019-08-11,Paracetamol,Abnormal
+jaNicE GoNZAleZ,35,Male,B+,Cancer,2020-10-05,Rebecca Johnson,"James Christian, Jones and",Medicare,47822.88302800216,169,Elective,2020-10-29,Ibuprofen,Abnormal
+saNdRa mILLer,21,Male,O+,Cancer,2020-03-13,Joanne Fisher,"Smith, Miller and Mason",UnitedHealthcare,33220.90097077846,260,Elective,2020-03-22,Lipitor,Inconclusive
+MEgan mORriSon,18,Female,B-,Cancer,2021-02-09,Beth Harris,Wood LLC,Aetna,24539.4665878732,258,Urgent,2021-03-03,Ibuprofen,Normal
+bReNDaN gArnEr,79,Female,O+,Hypertension,2021-05-27,Whitney Koch,Sons Marshall and,UnitedHealthcare,12529.987289333998,475,Elective,2021-06-17,Ibuprofen,Abnormal
+pATRICIA BeCKER,56,Male,A-,Cancer,2020-11-22,Sandra Bishop,Lewis Inc,UnitedHealthcare,26254.51769352854,403,Urgent,2020-12-12,Aspirin,Normal
+ERIC SNOW,70,Female,AB-,Diabetes,2022-12-27,Kevin Knapp,"and Lewis Cohen, Buck",UnitedHealthcare,34955.08037880918,380,Elective,2023-01-05,Paracetamol,Abnormal
+danIEL HolT,31,Male,AB+,Asthma,2022-09-01,Michael Reese,Inc Martin,Aetna,45538.961491782415,200,Urgent,2022-09-05,Paracetamol,Inconclusive
+JuStiN hAwKINs,25,Female,O-,Obesity,2021-07-29,Elizabeth Castro,"Mcpherson, Jackson and Bush",Cigna,21995.666494977017,495,Urgent,2021-08-01,Ibuprofen,Abnormal
+mR. JOHN mILleR,24,Male,A-,Hypertension,2023-12-16,Daniel Howe,Green LLC,UnitedHealthcare,10304.296136483828,369,Emergency,2023-12-25,Lipitor,Abnormal
+cHEryL MArtiN,52,Male,AB+,Arthritis,2021-08-31,John Lopez,"Smith Mitchell Gonzalez, and",Blue Cross,27343.458832733675,318,Emergency,2021-09-10,Paracetamol,Abnormal
+WIlliAM FloReS,56,Female,B+,Arthritis,2021-06-07,Sandra Jones,Perkins-Washington,UnitedHealthcare,40868.61386644675,378,Elective,2021-06-22,Paracetamol,Inconclusive
+JOhn CoNLEY,51,Female,A-,Diabetes,2022-04-30,Brandy Green,Ramirez-Jackson,Aetna,42744.084765191874,109,Emergency,2022-05-12,Lipitor,Inconclusive
+daviD webEr,37,Male,O-,Obesity,2022-07-16,Patricia Olson,Ltd Zuniga,UnitedHealthcare,14030.542784386114,443,Urgent,2022-08-07,Aspirin,Normal
+CHriStiaN cLARK,70,Male,B-,Arthritis,2023-05-07,Robert Hoover,"Oconnor and Moore, Snyder",Medicare,28574.787288304287,232,Emergency,2023-05-12,Lipitor,Normal
+tYlEr oLIvEr,24,Female,AB+,Asthma,2021-04-06,Justin Coleman,"Smith Fields, and Cook",UnitedHealthcare,47607.18848413396,368,Urgent,2021-04-29,Aspirin,Normal
+briTtany MARTinez,34,Female,A-,Asthma,2023-06-05,James Miles,Sons Williams and,UnitedHealthcare,16090.935625620772,475,Emergency,2023-06-26,Penicillin,Inconclusive
+NIcholaS sChmidt,87,Female,O-,Hypertension,2021-07-22,Mia Barajas,Rodriguez-Mckee,Cigna,24623.15303934465,257,Elective,2021-07-31,Penicillin,Normal
+sHeLia murRay,40,Male,AB-,Obesity,2019-05-11,Taylor Torres,Ramirez-Acosta,Aetna,31746.188652526995,207,Elective,2019-05-18,Penicillin,Abnormal
+MARK jAckSOn,78,Female,A-,Cancer,2020-06-07,Kevin Johnson,King-Quinn,Blue Cross,42126.12634908383,201,Emergency,2020-07-06,Penicillin,Normal
+Lori HerNAndEZ,27,Female,B-,Asthma,2023-06-07,Allen Smith,"Mills, Thomas and Hall",UnitedHealthcare,19985.773152220427,450,Urgent,2023-06-16,Aspirin,Abnormal
+KElLY CUmmings,60,Male,AB+,Arthritis,2021-05-23,Shannon Alvarez PhD,"and Williams Erickson Krause,",Aetna,39595.88149639946,139,Elective,2021-06-03,Ibuprofen,Normal
+LAuReN PIERCE,72,Male,B+,Obesity,2019-07-23,Mark Brown,Jennings-Nichols,UnitedHealthcare,33067.32263457014,386,Elective,2019-08-14,Lipitor,Normal
+paUL gaRCiA,59,Male,O+,Obesity,2021-02-18,Barbara Pope,West Group,Cigna,27373.1802989167,428,Elective,2021-02-19,Paracetamol,Normal
+ANtHOny tURNeR,23,Male,O+,Diabetes,2022-03-04,Thomas Bowers,"Pitts Thompson, Kaiser and",Aetna,48516.91469948895,276,Elective,2022-03-24,Penicillin,Abnormal
+sTAceY cLARK,73,Male,A-,Asthma,2022-10-19,Michelle Rose,"Pitts Austin, Johnson and",Cigna,40928.09673049176,419,Elective,2022-10-31,Ibuprofen,Inconclusive
+TonYA nixON,37,Male,O-,Hypertension,2022-12-28,Crystal Beasley,"Gordon, and Jackson Miller",UnitedHealthcare,37248.36900007244,393,Elective,2023-01-20,Ibuprofen,Normal
+SaMUEl LEwIs,27,Female,AB-,Cancer,2022-12-05,Amanda Cruz,"Douglas Evans, and Simpson",UnitedHealthcare,51200.16032086256,175,Urgent,2022-12-25,Lipitor,Inconclusive
+CASEY collInS,82,Female,O-,Hypertension,2020-04-08,Brandy Orozco,Rasmussen-Yang,Blue Cross,33988.16523131576,273,Elective,2020-04-28,Ibuprofen,Abnormal
+kENneTH WhITE,25,Male,O-,Asthma,2023-11-10,Mr. Kevin James,"Johnson Mendoza Fernandez, and",UnitedHealthcare,38658.57486580672,348,Emergency,2023-11-17,Penicillin,Normal
+KAtHlEeN VaLencia,53,Female,B+,Cancer,2023-02-17,Erin Mcdowell,Farrell-Zamora,Medicare,29348.728169154605,271,Emergency,2023-03-07,Ibuprofen,Abnormal
+asHlEy FoSTeR,33,Female,AB-,Arthritis,2021-12-26,Tanya Bean,"and Mahoney, Cabrera Thomas",Cigna,45924.79292970368,173,Urgent,2022-01-08,Lipitor,Abnormal
+jEnniFeR rODriGueZ,56,Male,A-,Arthritis,2024-01-25,Michelle Durham,"Carlson Wright, Valenzuela and",Blue Cross,48070.18512224571,199,Elective,2024-02-14,Penicillin,Inconclusive
+BRanDON mArTIn,37,Male,O+,Arthritis,2021-06-27,Brittany Taylor,"Martinez, Taylor and Crawford",Cigna,16651.68608361369,484,Emergency,2021-07-18,Lipitor,Normal
+edWArd JOhNsoN,29,Male,O+,Cancer,2022-11-09,Gregory Bowen,Clark-Jones,Cigna,27345.2851693166,343,Urgent,2022-11-19,Lipitor,Normal
+mIChAEl phIlLiPs,51,Female,O-,Obesity,2020-06-20,Bill Sampson,"and Ibarra Lutz Shields,",Cigna,19140.9527278654,481,Emergency,2020-07-13,Penicillin,Abnormal
+EDWArD WILLiaMS,43,Male,O+,Obesity,2021-07-23,Jodi Sanford,"Davis Schmidt, Jones and",Blue Cross,27010.36596768609,131,Elective,2021-08-22,Paracetamol,Abnormal
+TamAra OlsEn,68,Female,O+,Obesity,2022-01-27,Margaret Christensen,Inc Casey,Medicare,35424.3221243145,192,Elective,2022-02-25,Lipitor,Abnormal
+SHAnnOn moRAN,62,Male,O-,Cancer,2021-01-06,Matthew Rivas,"Cox, and Evans Adkins",Cigna,23002.63578311538,258,Elective,2021-02-02,Ibuprofen,Inconclusive
+edWIN riveRA,27,Female,AB-,Arthritis,2019-06-08,Carlos Love,"Williams Mccoy, and Smith",UnitedHealthcare,28368.383481529847,207,Emergency,2019-06-16,Ibuprofen,Abnormal
+daNieLlE cRUz dvM,23,Female,AB-,Obesity,2023-03-24,Dr. Steven Vasquez,"Galvan, Moore Alexander and",Medicare,27225.24725691185,386,Elective,2023-04-22,Penicillin,Normal
+rOY CABRera,75,Male,A+,Cancer,2022-11-09,Christopher Wallace,Fowler-Phillips,Cigna,35162.7563178483,332,Urgent,2022-11-28,Aspirin,Inconclusive
+MaRcus MCLAUGhLiN Jr.,53,Female,O+,Arthritis,2019-11-16,Steven Hancock,Smith Inc,Blue Cross,28518.91369290282,235,Emergency,2019-12-06,Penicillin,Inconclusive
+VANesSA HaRRIs,48,Female,AB+,Obesity,2020-10-26,Paul Sharp,LLC Oneill,Cigna,32640.68868790623,330,Elective,2020-11-13,Aspirin,Inconclusive
+gregOry KiNg,52,Female,B-,Diabetes,2021-11-17,Andre Williams,Johnson PLC,UnitedHealthcare,2725.380977164291,299,Elective,2021-12-09,Paracetamol,Inconclusive
+JAMES bRauN,19,Male,AB+,Asthma,2022-07-29,Brittany Rodriguez,Fletcher-Higgins,UnitedHealthcare,43254.58191545693,194,Emergency,2022-08-08,Lipitor,Normal
+summEr pARsonS,72,Male,B+,Diabetes,2022-05-24,Troy Durham,LLC Casey,Blue Cross,30450.551124923488,458,Urgent,2022-06-15,Paracetamol,Abnormal
+MIcHael bEnNEtT,61,Male,A+,Asthma,2023-04-07,David Wagner,Lloyd-Smith,UnitedHealthcare,33481.23543029798,237,Emergency,2023-04-10,Lipitor,Abnormal
+Lynn ReeveS,61,Female,AB+,Hypertension,2022-05-02,Tyler Ellison,"Gardner and Powers Scott,",UnitedHealthcare,36755.74884154947,302,Urgent,2022-05-31,Ibuprofen,Abnormal
+MICHael jOnES iI,59,Female,O+,Arthritis,2022-02-27,David Flores,Davis Sons and,Medicare,4402.956408492736,296,Urgent,2022-03-13,Lipitor,Normal
+arthur GOMEZ,76,Female,B+,Cancer,2023-03-26,Alexis Robbins,Sullivan-Gibson,UnitedHealthcare,48929.15002612388,208,Emergency,2023-03-30,Aspirin,Normal
+JiLL Martinez,36,Male,A+,Cancer,2019-06-30,Kenneth Jackson,Thomas Inc,Aetna,45153.90069853791,222,Elective,2019-07-11,Ibuprofen,Normal
+MeLissA gArCiA,66,Female,A+,Diabetes,2021-07-04,Denise Vargas,Jensen-Moore,Cigna,20739.69309789949,491,Emergency,2021-07-31,Penicillin,Normal
+TiMoTHy reynOlDs,64,Male,O-,Hypertension,2019-05-31,Judith Horn,Joyce-Meadows,Cigna,18515.23959854008,119,Urgent,2019-06-21,Lipitor,Inconclusive
+EriC JOSEpH,58,Female,AB+,Arthritis,2019-11-20,Frances Phillips,King-Douglas,Aetna,42386.646422884114,351,Urgent,2019-12-15,Paracetamol,Inconclusive
+heIDi schwARTZ,51,Female,A+,Cancer,2019-05-31,Stephanie Mckinney,Johnson Inc,Aetna,6806.741570353139,432,Elective,2019-06-22,Paracetamol,Inconclusive
+adRIaN pAyNe,83,Female,AB+,Hypertension,2022-04-24,Christopher French,Group Green,UnitedHealthcare,24327.621154023436,163,Elective,2022-05-10,Aspirin,Abnormal
+jILl clARK,31,Female,B+,Cancer,2021-05-11,Michael English,Singh-Ryan,Aetna,22688.338397730888,294,Emergency,2021-05-25,Penicillin,Normal
+rAYmoNd grant,44,Female,A+,Obesity,2021-03-28,Ann Chapman,"and Hartman, Miller Brown",Cigna,49219.78924656499,240,Urgent,2021-04-16,Ibuprofen,Normal
+WiLLIAm bLAcKWelL,41,Male,A+,Asthma,2023-02-13,Kimberly Burns DVM,Inc Welch,Medicare,27186.73601215829,403,Elective,2023-02-26,Lipitor,Abnormal
+pAUL wILKeRSoN,28,Male,AB+,Asthma,2021-07-30,Raymond Davenport,"Perez, Cox and Russo",Blue Cross,15674.204252262052,196,Emergency,2021-08-11,Lipitor,Inconclusive
+PeTEr moREnO,35,Male,B+,Asthma,2022-01-09,Lisa Bruce,Group Rodriguez,UnitedHealthcare,27247.767840962137,362,Elective,2022-01-25,Ibuprofen,Normal
+liNda BrOwn,51,Male,AB+,Diabetes,2023-01-13,Julia Wright,"Davis Adams Summers, and",Medicare,12016.659513404613,237,Emergency,2023-02-03,Penicillin,Abnormal
+mR. FreDeRIcK lEE,83,Male,A-,Diabetes,2022-03-25,Monica White,Sons Wright and,Aetna,11206.05587575544,480,Urgent,2022-04-16,Aspirin,Normal
+DwaYNE LITTle,80,Female,A-,Hypertension,2024-03-28,Johnathan Gates,Mccormick PLC,Medicare,2595.742795565985,418,Urgent,2024-04-15,Paracetamol,Abnormal
+STephanIe kENneDY,36,Female,O+,Obesity,2023-12-29,Craig Harris,Thomas LLC,Blue Cross,39813.92227179051,296,Elective,2024-01-22,Aspirin,Normal
+ShAWN Keith,56,Male,A+,Asthma,2022-11-25,Jeffrey Stephenson,"Edwards Ortiz and Dickerson,",Medicare,17970.10903286005,455,Emergency,2022-12-20,Ibuprofen,Abnormal
+donald WATSon,40,Male,A+,Obesity,2021-06-19,Nichole Smith,"Lee and White, Edwards",Medicare,39898.3993781357,336,Emergency,2021-07-07,Paracetamol,Abnormal
+JAmES JACKSoN,52,Male,AB+,Asthma,2019-08-09,Tyler Aguilar,"Lopez Baker, Owen and",Blue Cross,39592.37330938933,430,Urgent,2019-09-02,Paracetamol,Abnormal
+JaSON mcdOnAld,48,Male,B-,Cancer,2023-01-31,Jamie Edwards,Group Williamson,Medicare,32108.65277711337,349,Urgent,2023-02-20,Lipitor,Inconclusive
+brANDon roBERtsOn,31,Female,AB+,Cancer,2022-06-05,Sean Silva,Jones-Wade,Blue Cross,3749.75051648673,103,Elective,2022-06-07,Paracetamol,Inconclusive
+david rosS,17,Male,AB+,Cancer,2023-08-31,Susan Vasquez,Phillips-Bryan,Aetna,28752.66051935137,307,Emergency,2023-09-10,Ibuprofen,Inconclusive
+BRoOkE HERnanDez,72,Male,AB-,Cancer,2021-08-03,Jennifer Wang,"Copeland and Williamson Johnson,",Blue Cross,23848.267590989806,221,Urgent,2021-09-01,Lipitor,Normal
+jASMInE SandeRs,49,Male,B-,Asthma,2022-06-06,Rachel Brown,"Smith Meyer Hernandez, and",Aetna,14893.590668615152,472,Elective,2022-06-14,Paracetamol,Abnormal
+Amanda cHAPMaN,23,Female,O-,Obesity,2023-10-18,Willie Mccall,"and Brown Hughes, Avery",Cigna,39341.55906780385,497,Urgent,2023-11-01,Aspirin,Abnormal
+MoNica MurphY,83,Male,A+,Asthma,2020-09-04,Nicole Burke,PLC Carey,Blue Cross,6662.717135033746,276,Emergency,2020-09-26,Lipitor,Normal
+CoNnor sOsA,30,Male,B-,Hypertension,2020-03-14,Robert Alvarado,Roberts-Diaz,UnitedHealthcare,3912.5840917474966,411,Emergency,2020-03-18,Penicillin,Abnormal
+miCheLE MoliNa,50,Male,B-,Hypertension,2019-12-23,Matthew Rios,PLC Robertson,Medicare,39055.827218006285,247,Emergency,2020-01-01,Lipitor,Inconclusive
+jAmeS valEnCIa,62,Female,O+,Diabetes,2021-07-27,Adam Cooper,Wall-Scott,Medicare,42321.65440986465,438,Emergency,2021-08-24,Penicillin,Abnormal
+bRaNdoN PatEL,57,Female,O+,Asthma,2020-04-02,Chase Hayes,Thompson-Cunningham,Aetna,46429.31369852724,204,Urgent,2020-04-15,Aspirin,Inconclusive
+jEnNiFEr browN,29,Female,A-,Obesity,2023-08-01,Mark Elliott,"Mullins and Garcia, Dixon",Aetna,34541.82321440571,304,Elective,2023-08-09,Lipitor,Inconclusive
+MICHaEL WalKer,76,Female,O-,Asthma,2022-05-02,Kyle Franco,Hayes-Dalton,Aetna,47894.40363480416,461,Urgent,2022-05-28,Aspirin,Abnormal
+EriN pHiLLIPs,26,Male,O-,Arthritis,2021-11-28,Anita Smith,Group Hernandez,Cigna,46153.9250827047,106,Emergency,2021-12-09,Lipitor,Abnormal
+bRUCE rOdgERS,16,Male,A+,Diabetes,2020-10-10,Gregory Lewis,Ltd Elliott,Cigna,31917.37011519025,313,Urgent,2020-11-09,Ibuprofen,Normal
+bRuCe LE,53,Female,O-,Obesity,2020-08-23,Brett Snyder,Hunter-Vincent,Cigna,39188.95032172475,272,Urgent,2020-09-03,Aspirin,Normal
+JiMMY CAmPBELl,80,Male,AB+,Cancer,2022-02-07,Jessica Bond,Ltd Weaver,Blue Cross,34160.60180644931,123,Elective,2022-02-28,Lipitor,Abnormal
+JaMEs PaCHEcO,27,Female,A+,Cancer,2021-12-09,Brenda Moore,Gallagher-Carroll,Aetna,27861.27308376244,366,Emergency,2021-12-22,Lipitor,Normal
+viCtOR bakeR,20,Male,A-,Arthritis,2021-04-22,Patricia Fernandez,and Aguilar Sons,Blue Cross,23550.15857612006,279,Urgent,2021-05-09,Ibuprofen,Inconclusive
+OlivIA wILSOn,58,Female,B-,Asthma,2024-01-09,Rebecca Brown,House-Graham,Blue Cross,5367.775924117621,121,Emergency,2024-01-12,Penicillin,Inconclusive
+VicTOR jENSeN,60,Female,O-,Hypertension,2021-03-02,Antonio Macias,Gaines and Sons,Blue Cross,38728.16410097132,182,Elective,2021-03-25,Ibuprofen,Normal
+VincEnT CharLeS,59,Female,B+,Arthritis,2022-12-08,Jeffery Wright,Holt-Rangel,Blue Cross,49602.38361940914,292,Emergency,2022-12-23,Paracetamol,Normal
+DAVE PaRrISH,57,Female,B+,Arthritis,2020-08-24,Sandra Bender,"Leblanc Conway, Holt and",Aetna,34381.68871217591,330,Urgent,2020-09-06,Lipitor,Inconclusive
+niCHOlas mENdOza,39,Male,AB+,Hypertension,2023-09-01,Rachel Gibson,Lewis Ltd,Blue Cross,42799.7762302189,321,Elective,2023-09-03,Lipitor,Normal
+NicolE johnSoN,21,Female,AB-,Asthma,2019-07-26,Tamara Moody,"Lewis and Cruz, Mccarthy",Cigna,30376.02858098014,436,Urgent,2019-08-07,Ibuprofen,Normal
+stEvE MulLINS,23,Female,O+,Asthma,2019-09-07,Natasha Terry,Watson Ltd,Blue Cross,10600.05132034535,353,Emergency,2019-10-06,Paracetamol,Normal
+cHrIStoPhEr CORtez,40,Male,B+,Obesity,2020-06-26,Nancy Fisher,Barron-Jarvis,Aetna,44605.63566345095,115,Emergency,2020-07-23,Paracetamol,Abnormal
+gReGoRY cARLsOn,33,Female,AB+,Arthritis,2020-05-27,Scott Gibson,"Barber Benson, and Perry",Medicare,25911.74863834084,443,Urgent,2020-06-13,Penicillin,Inconclusive
+SArA vARgaS,74,Female,O+,Cancer,2023-07-15,Mary Huffman,"Clark and Lewis Gross,",UnitedHealthcare,33492.63806844479,469,Emergency,2023-08-07,Ibuprofen,Normal
+sTevEN WARreN,41,Male,AB-,Hypertension,2022-06-30,Melissa Vargas,PLC Murray,Aetna,15261.628658240554,284,Elective,2022-07-07,Paracetamol,Normal
+KaTIe keMp,45,Female,AB+,Cancer,2021-03-02,Bonnie Lang,"Russell, and Garcia Potter",Medicare,27967.014229537177,165,Emergency,2021-03-19,Aspirin,Inconclusive
+BiancA RODriGUEz,24,Male,AB-,Hypertension,2023-07-01,Stephen Gray,Inc Williams,Cigna,43735.18436903421,379,Elective,2023-07-31,Paracetamol,Abnormal
+waLTER deLacRUZ,40,Female,O+,Obesity,2023-05-14,Karen Ross,Williams Group,Medicare,2716.184422051969,329,Urgent,2023-06-03,Paracetamol,Inconclusive
+lori fReDeRicK,65,Male,A-,Arthritis,2020-04-06,Brian Austin,Barber-Perry,Cigna,23872.860098038924,158,Elective,2020-04-28,Aspirin,Inconclusive
+stepHeN hOlMEs,29,Male,O+,Obesity,2024-01-26,Danielle Krause,Lewis-Steele,Medicare,38813.94683345702,158,Urgent,2024-02-24,Aspirin,Abnormal
+ERIC hall,23,Female,A+,Cancer,2023-01-05,Ashley Chambers,"and Jackson, Mitchell Marks",Medicare,32449.00714444253,128,Emergency,2023-01-28,Lipitor,Normal
+mauRIcE bakEr,21,Male,O+,Hypertension,2022-10-06,Christopher Vaughan,Terry-Flores,UnitedHealthcare,13428.292957183136,270,Emergency,2022-10-15,Aspirin,Normal
+MR. jAmES BLAnChARd,82,Female,AB+,Arthritis,2023-02-01,Sarah Martin,Miller-Garza,Medicare,49926.70553712751,189,Urgent,2023-02-24,Paracetamol,Inconclusive
+jAmEs JIMeNEZ,26,Female,A+,Cancer,2019-12-18,Cory Martin,Inc Phillips,Medicare,26660.550442610296,304,Emergency,2019-12-30,Lipitor,Abnormal
+TImOTHY tHomas,36,Male,A+,Arthritis,2022-06-09,David Alvarez,"Hardy, Schaefer and Howard",UnitedHealthcare,20903.09747765028,329,Urgent,2022-06-16,Penicillin,Inconclusive
+CliNTON VeLazquEz,21,Female,O-,Cancer,2022-09-17,Elizabeth Davies,"Newman and Colon, Knight",UnitedHealthcare,14327.513023739206,106,Elective,2022-10-09,Ibuprofen,Abnormal
+marY dAvis,60,Male,A-,Diabetes,2022-01-05,Daniel Vargas,Jones-Rodriguez,Aetna,22862.311344092457,484,Emergency,2022-01-12,Paracetamol,Normal
+MElinDa tHOMas,38,Male,O-,Hypertension,2022-11-06,Alyssa Walton,Hatfield Inc,Cigna,24740.449986586336,158,Urgent,2022-11-26,Aspirin,Normal
+jOSe pERRY,79,Female,B-,Hypertension,2022-12-21,John Atkinson,"and Mcdonald Miller Hernandez,",Medicare,33348.03702346864,266,Urgent,2023-01-11,Penicillin,Inconclusive
+chaRLes RAMIRez,36,Female,O-,Obesity,2023-09-08,Lori Avery,Group Garcia,UnitedHealthcare,21876.779192312544,328,Elective,2023-09-12,Paracetamol,Abnormal
+PaMELA SchNEidER,19,Male,A-,Arthritis,2020-04-03,Patrick Maxwell,King-Santiago,Cigna,45010.82559329434,141,Elective,2020-04-29,Penicillin,Inconclusive
+BeNJaMiN batEs,65,Male,AB+,Diabetes,2023-09-24,Joshua Benson,Avila-Fischer,Medicare,48238.55590393028,312,Elective,2023-10-14,Penicillin,Abnormal
+jacKiE ZuNIgA,52,Female,O+,Asthma,2022-02-12,Kelsey Howell,"and Bennett, Davis Rice",Cigna,20149.157000535943,438,Emergency,2022-03-03,Penicillin,Inconclusive
+WIlliaM cAREY,88,Male,AB-,Cancer,2020-03-14,Joshua Pitts,Sons and Prince,Blue Cross,45057.76868041053,163,Urgent,2020-04-07,Lipitor,Normal
+ARieL WILLIaMs,22,Male,B-,Asthma,2022-06-24,Deborah Frederick,Alexander-Austin,UnitedHealthcare,16375.79813324777,333,Elective,2022-07-13,Aspirin,Normal
+kRIsTIna welLs MD,33,Male,AB+,Asthma,2023-11-25,James Kirby,Johnson Inc,Cigna,28990.57301472131,286,Emergency,2023-12-24,Aspirin,Normal
+jENniFer FIsheR,50,Male,O-,Arthritis,2020-11-24,Peter Jenkins,"and Robertson Moore Nelson,",Medicare,13160.549365160474,363,Elective,2020-12-23,Aspirin,Inconclusive
+ALexa EDwArds,45,Female,A+,Arthritis,2019-10-22,Amber Irwin,"Taylor Hammond and Hernandez,",UnitedHealthcare,49233.428772882005,236,Urgent,2019-11-18,Ibuprofen,Normal
+rUsSeLL hErNanDEz,63,Male,AB-,Diabetes,2024-04-27,Emily Maldonado,Ltd Patterson,Aetna,28814.763196865715,229,Emergency,2024-05-18,Ibuprofen,Inconclusive
+SUsAN LEE,52,Male,AB+,Obesity,2019-12-10,Donna Morris,Peterson-Martin,Blue Cross,20188.110351724437,414,Emergency,2019-12-23,Aspirin,Abnormal
+sHaRon SINglETON,35,Male,AB-,Diabetes,2020-03-01,Calvin Lee,Garcia-Juarez,Cigna,36028.85876909452,318,Elective,2020-03-22,Aspirin,Inconclusive
+niCOle ALVAraDO,36,Male,B-,Arthritis,2021-05-05,Adam Bowers,Galloway-Barnett,Medicare,15072.570926473927,321,Elective,2021-05-15,Penicillin,Abnormal
+cHrIStY KelLEY,86,Female,B+,Arthritis,2022-02-10,Daniel Fletcher,Spencer Ltd,UnitedHealthcare,3381.1699690813366,394,Emergency,2022-02-21,Lipitor,Inconclusive
+MaURicE MUnOZ,71,Male,O+,Cancer,2022-08-19,Amber Rivera,Young-Montgomery,Blue Cross,5751.630699272074,375,Elective,2022-09-02,Paracetamol,Abnormal
+ChRisTopher Evans,34,Female,AB+,Cancer,2020-09-03,Ethan Hampton,Group Flores,Cigna,19229.7991819368,377,Emergency,2020-09-24,Paracetamol,Abnormal
+cHriStOPheR goMEz,23,Female,A-,Asthma,2020-06-07,Debra Harrison,Inc Conner,Medicare,17531.4434023661,479,Emergency,2020-06-10,Paracetamol,Normal
+scOtt broWN,74,Female,A-,Arthritis,2020-07-13,Megan Brown,Calhoun-Woods,Medicare,24943.250114696664,333,Urgent,2020-07-14,Ibuprofen,Normal
+diana cOLEMAn,54,Male,A+,Obesity,2019-11-30,Caitlin Wheeler,Sons and Rivera,Aetna,22697.26115615567,260,Elective,2019-12-29,Penicillin,Normal
+roNald rOwe,20,Female,A-,Cancer,2023-11-23,Adam Wright,Inc Ruiz,Aetna,3421.763919806576,424,Emergency,2023-12-03,Penicillin,Abnormal
+MelisSA bEAN,70,Female,AB-,Diabetes,2021-06-08,Kiara Dougherty,Key-Campbell,Cigna,24603.02721143408,465,Emergency,2021-06-29,Aspirin,Normal
+chRIsToPhEr pIercE,79,Male,A+,Obesity,2019-07-31,Paula Hood,Group Foster,UnitedHealthcare,3726.345679763073,400,Emergency,2019-08-11,Paracetamol,Abnormal
+jessIcA OrTIZ,46,Female,A+,Asthma,2023-09-23,Jose May,"and James, Edwards Thompson",Medicare,4659.79397447203,305,Elective,2023-09-27,Ibuprofen,Normal
+rANDy ChAveZ,82,Female,B+,Hypertension,2020-12-04,Brittany Beard,Gutierrez-Bray,Blue Cross,26342.72399445912,407,Emergency,2020-12-19,Penicillin,Abnormal
+doUglas mckee,71,Male,A-,Hypertension,2020-04-01,Sergio Pena,Davis Ltd,Blue Cross,16470.9568891798,459,Emergency,2020-04-14,Aspirin,Inconclusive
+nAtAsHa KNaPp,24,Male,AB-,Asthma,2022-09-24,Karen Gordon,Adkins-Cox,Medicare,28559.161643420142,294,Elective,2022-09-25,Aspirin,Abnormal
+AmaNdA rICHaRDS,29,Male,A-,Asthma,2022-12-29,Jill Mullen MD,Barajas-Whitney,Cigna,37584.84904317405,352,Emergency,2023-01-18,Aspirin,Inconclusive
+GabrIeLlE WiLSon,55,Male,AB-,Obesity,2021-05-30,Linda Carr,"Thompson and Strong, Lester",Medicare,9779.149659215294,224,Emergency,2021-06-20,Lipitor,Abnormal
+MEGan jONes,44,Male,A-,Cancer,2020-10-06,Anna Brown,"Mack Logan and Potter,",Blue Cross,48528.25467486946,356,Urgent,2020-10-19,Penicillin,Abnormal
+jusTiN WAtsON,84,Male,B-,Asthma,2019-05-18,Melissa Allen,"and Williams Wilson, Brown",Aetna,10173.492464919089,349,Urgent,2019-05-28,Lipitor,Abnormal
+catHY jefferSON,60,Female,A-,Obesity,2022-11-08,David Miranda,Chase-Ho,Aetna,32445.028458913937,196,Urgent,2022-11-15,Paracetamol,Inconclusive
+sUZaNnE JOHNsOn,40,Male,A-,Diabetes,2019-09-11,Steven Smith,"Fitzpatrick and Davis, Cook",Aetna,20815.837644463834,326,Urgent,2019-09-20,Ibuprofen,Abnormal
+brENDA HaNseN,28,Female,AB+,Hypertension,2020-01-31,Patricia Vazquez,Garcia-Grant,Medicare,47103.35221850106,329,Emergency,2020-02-26,Paracetamol,Inconclusive
+saMANtHA lanG,76,Male,AB+,Obesity,2022-04-10,Brittany Blair,"and Cummings Hill Morris,",Aetna,19527.081301467555,415,Urgent,2022-04-22,Penicillin,Abnormal
+ERneST DaVIS,23,Male,O-,Arthritis,2020-11-17,Michelle Wright,"Donovan Wright and Gomez,",Aetna,21379.17426578508,236,Emergency,2020-12-11,Lipitor,Inconclusive
+KatHERInE PhiLliPS,50,Female,A+,Diabetes,2019-10-25,Robert Chapman,Benson-White,UnitedHealthcare,26411.99295127871,416,Elective,2019-11-08,Paracetamol,Abnormal
+louiS joHNSOn,81,Male,B-,Hypertension,2023-03-07,Sarah Burns,"Williams Martin Frazier, and",Aetna,39234.81091843826,344,Emergency,2023-03-13,Aspirin,Normal
+gInA EAtoN,86,Male,AB+,Diabetes,2021-04-14,Heather Austin,Ltd Benitez,Blue Cross,41943.4010842712,279,Urgent,2021-04-16,Lipitor,Inconclusive
+WArreN WiLliamS,83,Female,O-,Hypertension,2023-02-14,Amanda Brown,"Goodman Jimenez, Carter and",Cigna,4083.157946510461,486,Emergency,2023-02-27,Ibuprofen,Abnormal
+keVIN tayloR,53,Male,B+,Obesity,2020-11-14,Emily Lewis,Inc Underwood,Cigna,14754.523709586703,196,Elective,2020-11-21,Penicillin,Abnormal
+RichArd HiggINs,28,Female,AB-,Obesity,2021-10-18,Patrick Smith,Norman Ltd,UnitedHealthcare,43302.0120339151,371,Emergency,2021-10-24,Penicillin,Abnormal
+aNThonY jacKSon,19,Female,B-,Diabetes,2022-12-04,Diana Martin,Hall LLC,Blue Cross,47692.540373095326,495,Emergency,2022-12-27,Lipitor,Abnormal
+meGAn mitChelL,35,Male,AB-,Cancer,2023-07-14,Brandy Anderson,"Ramos, Jackson and Gonzales",Cigna,3837.10949043202,468,Elective,2023-08-13,Penicillin,Inconclusive
+BreNda JOHNsON,71,Male,AB-,Obesity,2023-07-16,Mary Branch,Patterson Group,UnitedHealthcare,25904.689326922773,470,Elective,2023-08-08,Aspirin,Abnormal
+rEBeCCA fArMEr,80,Male,B-,Cancer,2020-09-30,Natalie Allen,Tran-Hunter,Medicare,10926.249218523828,273,Emergency,2020-10-22,Aspirin,Inconclusive
+edwARd vElazquEz,52,Male,A-,Hypertension,2020-05-26,Andrew Lloyd,"Henry Kim, Hodge and",Cigna,7489.790853858945,367,Urgent,2020-06-21,Paracetamol,Abnormal
+SPeNcer WHitnEy,64,Female,B+,Diabetes,2021-06-30,Michael Gordon,"and Lewis, Booth Burke",UnitedHealthcare,7695.857697378806,273,Urgent,2021-07-03,Aspirin,Inconclusive
+keIth wILSOn,21,Male,O-,Obesity,2020-08-19,Julie Arroyo,Johnson-Bell,Aetna,11039.864299042816,275,Emergency,2020-08-20,Aspirin,Inconclusive
+aMy FlORes,41,Male,B-,Cancer,2021-04-28,Robert Olson,Holloway-Mcintyre,UnitedHealthcare,31177.33182636449,266,Elective,2021-05-03,Penicillin,Abnormal
+daNa rOy,21,Male,AB-,Obesity,2023-04-09,Patricia Garcia,"Wood Jones, Alvarado and",Medicare,4499.936050001117,461,Emergency,2023-04-21,Aspirin,Inconclusive
+AnDREW Perry,71,Female,A+,Diabetes,2022-04-05,James Mccarthy,Smith-Mayo,Blue Cross,26432.962529687346,464,Urgent,2022-04-21,Ibuprofen,Abnormal
+amANDa WILLIamS,18,Female,AB-,Cancer,2020-05-02,Patrick Woods,"Brewer and Rodriguez, Holmes",Blue Cross,21722.18212011321,281,Elective,2020-05-09,Lipitor,Normal
+WilLIAm saVAge,30,Female,O-,Asthma,2019-12-11,Veronica Smith,Bennett-Brooks,Medicare,24502.672173254607,496,Elective,2019-12-12,Paracetamol,Inconclusive
+chelsEa FInLeY,17,Female,A+,Obesity,2020-05-25,Michele Warren,"Kane Porter and Robinson,",Medicare,30718.546280834835,226,Elective,2020-06-06,Ibuprofen,Normal
+maTthEw SEllERS,71,Female,O-,Cancer,2021-02-06,Erin Page,Brown-Cortez,UnitedHealthcare,47566.50784213957,400,Emergency,2021-02-10,Ibuprofen,Abnormal
+saRaH FloReS MD,25,Female,B+,Asthma,2019-11-29,Samantha Myers,Daniels LLC,Blue Cross,38865.59603245646,358,Urgent,2019-12-28,Ibuprofen,Normal
+sHelby BLack,37,Male,A+,Asthma,2020-09-07,Peter Nunez,Brown-Wood,Blue Cross,28974.45532631616,377,Elective,2020-09-30,Paracetamol,Normal
+AnGELiCa taYloR,67,Male,AB+,Cancer,2020-12-22,Tyler Owens,"Moore Carney Hernandez, and",Aetna,20701.269674632807,262,Emergency,2020-12-23,Lipitor,Inconclusive
+Mr. Mike oBrIEN,33,Female,B-,Obesity,2023-04-11,Robert Boone,Jones LLC,Cigna,38270.31489433883,178,Elective,2023-05-07,Ibuprofen,Abnormal
+tammY hALL,28,Female,AB-,Asthma,2023-11-30,Mary Hart,Gould-Lyons,Aetna,15107.326040309204,217,Emergency,2023-12-22,Ibuprofen,Inconclusive
+JanICE bEcK,28,Female,B-,Hypertension,2023-11-06,Julia Mahoney,"and Smith, Fleming Little",Medicare,16508.10409286917,358,Emergency,2023-11-30,Lipitor,Normal
+ANDREA HansEN,61,Male,O+,Cancer,2021-07-02,Alisha Flores,LLC Clark,Cigna,40026.76394758382,254,Elective,2021-07-22,Paracetamol,Normal
+DAVId MOoRE,70,Male,AB-,Hypertension,2023-12-10,Mary Vargas,Patterson-Webb,Blue Cross,36291.51102779393,269,Emergency,2024-01-06,Penicillin,Abnormal
+sHaNnon middLeTon,61,Female,O+,Diabetes,2020-01-04,Kim Livingston,"Davis and Kelly Hale,",Medicare,27695.434851097467,347,Emergency,2020-02-02,Lipitor,Abnormal
+davId CopeLanD,76,Female,O-,Cancer,2023-08-11,Gerald Green PhD,Hurst-Skinner,Blue Cross,41174.31338350655,296,Emergency,2023-09-08,Penicillin,Inconclusive
+cArLOS anDeRSon,77,Male,A+,Cancer,2020-07-02,Jessica Weeks,Chapman Ltd,Aetna,21759.027392878343,264,Elective,2020-07-10,Paracetamol,Inconclusive
+mr. jaMEs dIAZ,75,Female,A+,Obesity,2021-07-28,Ebony Ramirez,Hansen-White,Cigna,11590.102259798276,145,Elective,2021-08-02,Aspirin,Abnormal
+REbeCCa RoDrIguEZ,28,Female,B-,Asthma,2020-02-23,Doris Nichols,Group Stuart,Medicare,25519.97209514123,198,Urgent,2020-03-01,Penicillin,Abnormal
+rACHel LaWsoN,71,Female,A-,Hypertension,2022-11-16,Mary Hall,"Fowler, and Joyce Thomas",Aetna,7582.411417903138,161,Emergency,2022-12-14,Ibuprofen,Inconclusive
+AmY pALMeR,79,Male,B+,Diabetes,2020-05-15,Lauren Bradley,LLC Boyer,Aetna,46008.21396140367,174,Urgent,2020-05-30,Aspirin,Abnormal
+kaYLa HENsLEY,39,Female,AB+,Asthma,2022-01-10,Daniel Norton,Perez-Russell,Medicare,19314.826708536624,460,Elective,2022-01-22,Lipitor,Abnormal
+DeAnnA FISher,79,Male,A-,Cancer,2024-05-04,Taylor Smith,Saunders-Perez,UnitedHealthcare,17120.20852361024,277,Elective,2024-05-08,Ibuprofen,Inconclusive
+mICHAEL PoLlArD,40,Female,AB+,Diabetes,2023-08-21,Anthony Hobbs,Gentry-Thompson,Cigna,35190.49665754021,115,Urgent,2023-08-24,Lipitor,Abnormal
+pAtrIck AlI,19,Male,B-,Obesity,2022-11-25,Christopher Lewis,"Chan Sanchez and Hodge,",Aetna,35882.82009292548,373,Emergency,2022-12-24,Paracetamol,Normal
+CRysTaL MARtINEZ,87,Female,O+,Obesity,2021-11-10,Theresa Smith,Byrd-Porter,Blue Cross,22540.60999676068,249,Emergency,2021-11-26,Lipitor,Inconclusive
+BrIan mYerS,46,Female,O-,Asthma,2019-11-05,Patricia Knight,"Mccarthy Long, Stephens and",UnitedHealthcare,10400.01852763959,187,Urgent,2019-11-08,Paracetamol,Inconclusive
+JAMEs aDamS,85,Female,A+,Asthma,2024-03-18,Ethan Mccarthy,Taylor-Smith,Cigna,35848.38871695645,285,Urgent,2024-04-14,Ibuprofen,Inconclusive
+ErNEsT wILSOn,26,Female,O-,Diabetes,2023-09-23,Michael Smith,"Smith and Mejia, Phillips",UnitedHealthcare,31344.32352909532,115,Elective,2023-10-11,Aspirin,Abnormal
+Paul DEleon,59,Male,AB-,Cancer,2019-06-15,Mary Sharp,Padilla-Meyer,Medicare,13345.704725286409,225,Urgent,2019-06-27,Lipitor,Normal
+JEFFREy PAtEL,52,Female,O-,Obesity,2020-01-08,Lisa Taylor,"White, Duncan Mitchell and",Aetna,44211.48063406047,421,Urgent,2020-01-24,Aspirin,Normal
+jOHn StepHenS,34,Female,O-,Asthma,2023-05-09,Susan Wang,"Potts Harris and Ortiz,",Medicare,32161.66262409869,293,Elective,2023-06-04,Ibuprofen,Abnormal
+CHrIsty CHoi,19,Male,O-,Asthma,2020-06-11,Daniel Andrews,Ltd Braun,Blue Cross,15832.687557181376,121,Urgent,2020-06-18,Penicillin,Abnormal
+bRAdLey ViLlegas dds,55,Female,A+,Diabetes,2022-12-30,Bradley Thornton,Sparks Ltd,Aetna,7597.92453826548,384,Elective,2023-01-23,Aspirin,Inconclusive
+MichAel SaNDOvAL,72,Female,AB-,Cancer,2023-07-27,Scott Hayes,and Sons Bond,Aetna,40932.20441396739,484,Emergency,2023-08-23,Penicillin,Inconclusive
+LinDA hOpkINs,53,Female,A-,Obesity,2019-10-14,Charles Mathews,"Carlson Harris Jones, and",Aetna,9931.256500593729,486,Urgent,2019-11-09,Paracetamol,Normal
+micheLLE JaCobs,73,Male,O-,Cancer,2024-03-24,Jose Reese,Castro-Rodgers,Aetna,21751.49377259088,231,Urgent,2024-04-18,Paracetamol,Abnormal
+ALLIson HoWaRD,30,Male,A-,Hypertension,2021-01-14,Sonya Nolan,Jones Sons and,Medicare,44827.9798931455,126,Urgent,2021-02-05,Ibuprofen,Abnormal
+ChArleS ALVaRADO,56,Male,B-,Cancer,2022-09-18,Karen Perez,Mckinney Inc,Blue Cross,8786.594670549755,407,Elective,2022-09-28,Aspirin,Abnormal
+DaNiEL HuGheS,36,Female,O+,Diabetes,2023-01-17,Dustin Rios,Dodson-Thomas,Medicare,6112.09187728266,131,Emergency,2023-02-06,Paracetamol,Abnormal
+CaSsanDRA Paul,53,Female,B-,Diabetes,2022-10-16,Taylor Smith,"and Martin Smith Walker,",Blue Cross,16675.295538164395,290,Urgent,2022-11-14,Aspirin,Abnormal
+dAvID sWEENEy,26,Male,B+,Arthritis,2021-01-12,Tabitha Mcgrath,Brown-Smith,Blue Cross,10532.960582473092,242,Urgent,2021-02-09,Aspirin,Inconclusive
+jESsIca FIgUeROA,59,Male,O+,Cancer,2020-01-23,Jonathan King,Jordan Sons and,UnitedHealthcare,11883.830258028707,145,Elective,2020-01-24,Aspirin,Normal
+STePhanIe carDENas,55,Male,O+,Cancer,2024-01-20,David Brooks,Sons Little and,Blue Cross,12031.399339472451,332,Elective,2024-02-09,Aspirin,Inconclusive
+emILY gUtieRREZ,40,Male,O+,Cancer,2021-11-24,Jason Wallace,Gill-Hernandez,Blue Cross,9317.809986548737,104,Urgent,2021-11-25,Lipitor,Inconclusive
+sean cArrilLO,80,Female,A+,Arthritis,2022-04-03,Mark Andersen,"Hale and Robinson Hudson,",Blue Cross,46062.314366802304,284,Urgent,2022-04-12,Penicillin,Inconclusive
+raYmoNd HAyEs,35,Female,B+,Diabetes,2022-11-12,Clifford Wang,"Hensley Cohen, and Hill",UnitedHealthcare,25169.06060432256,148,Emergency,2022-12-09,Ibuprofen,Inconclusive
+JEnNiFEr edWArDS,57,Female,AB-,Obesity,2019-10-26,James Quinn,Dawson-Jones,Aetna,21125.32197863222,264,Elective,2019-10-29,Lipitor,Normal
+mR. matTHEw RAmIrEZ,29,Male,O+,Cancer,2024-04-04,Mark Johnson,Edwards-Cole,UnitedHealthcare,49621.825175347454,166,Emergency,2024-04-12,Aspirin,Inconclusive
+MORgan MoRA,26,Female,O-,Obesity,2020-11-12,Shane Blackwell,Mcneil Ltd,Medicare,47156.455779272816,337,Urgent,2020-12-07,Penicillin,Normal
+LiSa wESt,73,Female,A-,Asthma,2019-06-22,Andrew Moore,Perez-Sutton,Cigna,34771.61239996875,432,Urgent,2019-07-09,Lipitor,Normal
+AsHleY lane,20,Male,A+,Asthma,2021-09-11,Stephen Johns,"and Lewis Patel, Kim",UnitedHealthcare,40610.12453731124,430,Urgent,2021-09-21,Ibuprofen,Inconclusive
+randY bRADY,65,Female,A+,Diabetes,2024-04-23,Sarah Price,"and Barnes Stanley Murray,",Blue Cross,31842.07233309745,340,Elective,2024-04-30,Penicillin,Normal
+TimothY GOmEz,38,Male,AB-,Obesity,2021-12-21,Miss Natalie Herrera MD,"and Mack Davis, Smith",Aetna,10656.136050870577,491,Elective,2021-12-27,Penicillin,Normal
+STepHaNiE pARKeR,42,Male,AB+,Cancer,2021-03-09,Kerri Santiago,Roberts-Gonzalez,Cigna,14198.831474502913,179,Elective,2021-04-04,Paracetamol,Inconclusive
+cAsEy bIrD,66,Male,B-,Hypertension,2022-07-20,Ryan Murray,Martin Group,Medicare,41492.70041495457,113,Emergency,2022-07-28,Paracetamol,Abnormal
+JAcquELinE mErriTT,46,Male,A-,Hypertension,2022-10-01,Caleb Anderson,Coleman Group,Blue Cross,36719.91592792569,267,Elective,2022-10-27,Lipitor,Normal
+Larry Ford,72,Female,AB-,Hypertension,2021-02-26,Lindsay Allen,Brown Inc,Blue Cross,47372.79671334891,373,Elective,2021-03-04,Lipitor,Normal
+jacOB JOneS,61,Female,A+,Obesity,2021-09-30,Dana Gonzales,"Thomas Harvey and Brown,",Cigna,19014.973391683925,283,Urgent,2021-10-11,Aspirin,Normal
+samueL MIlLER,75,Female,AB+,Asthma,2021-01-23,Sherry Sexton,"Turner Stevens, Castro and",Medicare,44665.863926718965,408,Emergency,2021-01-28,Lipitor,Normal
+pAmELa SuaRez,19,Male,O-,Hypertension,2020-09-18,Shannon Davis,Gallagher-Gomez,Medicare,39582.62373070518,331,Urgent,2020-10-09,Penicillin,Normal
+DR. jeFfREy davIS jR.,27,Male,B+,Hypertension,2022-02-12,Christopher Graham,Anderson LLC,Blue Cross,26625.21520975812,419,Urgent,2022-02-28,Penicillin,Normal
+jOshua eaToN,33,Female,AB-,Arthritis,2021-05-25,Shawn Wilson,Thomas LLC,UnitedHealthcare,8315.33450239767,480,Elective,2021-06-13,Paracetamol,Normal
+JAcQUelINe SILva,58,Female,O+,Hypertension,2022-04-23,Mary Anderson,"Barnett and Richards, Avila",Medicare,42747.22536354172,422,Elective,2022-05-05,Ibuprofen,Normal
+bObBY BeASLEY,84,Female,AB-,Asthma,2022-04-13,Jaime Wood,"and Johnson Barnett, Ramsey",UnitedHealthcare,36114.78233995567,349,Urgent,2022-05-12,Ibuprofen,Inconclusive
+sCoTt RAnGeL,32,Female,AB+,Arthritis,2021-12-18,Hailey Cervantes,Roberson PLC,Cigna,8692.829096232397,450,Urgent,2022-01-09,Ibuprofen,Normal
+joANN HeNrY,55,Male,O+,Obesity,2023-07-07,Mary Harris,Group Moreno,Blue Cross,2766.7930293817453,286,Urgent,2023-07-09,Ibuprofen,Normal

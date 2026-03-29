@@ -1,31 +1,38 @@
 import pandas as pd
 from config.db_config import get_connection
+import warnings
+import streamlit as st
 
+@st.cache_data(ttl=300) # Cache total DB data for 5 minutes
 def load_data():
     conn = get_connection()
+    
+    # Suppress pandas read_sql warning for non-SQLAlchemy connections
+    with warnings.catch_warnings():
+        warnings.simplefilter("ignore", UserWarning)
+        query = """
+        SELECT 
+            p.name AS Name,
+            p.age AS Age,
+            p.gender AS Gender,
+            p.blood_type AS `Blood Type`,
+            a.admission_date AS `Date of Admission`,
+            a.discharge_date AS `Discharge Date`,
+            a.admission_type AS `Admission Type`,
+            a.hospital AS Hospital,
+            a.doctor AS Doctor,
+            a.medical_condition AS `Medical Condition`,
+            a.medication AS Medication,
+            a.test_results AS `Test Results`,
+            b.amount AS `Billing Amount`,
+            b.insurance_provider AS `Insurance Provider`
+        FROM patients p
+        JOIN admissions a ON p.patient_id = a.patient_id
+        JOIN billing b ON p.patient_id = b.patient_id
+        """
 
-    query = """
-    SELECT 
-        p.name AS Name,
-        p.age AS Age,
-        p.gender AS Gender,
-        p.blood_type AS `Blood Type`,
-        a.admission_date AS `Date of Admission`,
-        a.discharge_date AS `Discharge Date`,
-        a.admission_type AS `Admission Type`,
-        a.hospital AS Hospital,
-        a.doctor AS Doctor,
-        a.medical_condition AS `Medical Condition`,
-        a.medication AS Medication,
-        a.test_results AS `Test Results`,
-        b.amount AS `Billing Amount`,
-        b.insurance_provider AS `Insurance Provider`
-    FROM patients p
-    JOIN admissions a ON p.patient_id = a.patient_id
-    JOIN billing b ON p.patient_id = b.patient_id
-    """
-
-    df = pd.read_sql(query, conn)
+        df = pd.read_sql(query, conn)
+    
     conn.close()
 
     # Re-calculate Hospital_Stay_Days which is needed for ML
