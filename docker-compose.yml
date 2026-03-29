@@ -1,0 +1,35 @@
+version: '3.8'
+
+services:
+  db:
+    image: mysql:8
+    container_name: healthcare_db
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: healthcare_db
+    ports:
+      - "3306:3306"
+    healthcheck:
+      test: ["CMD", "mysqladmin" ,"ping", "-h", "localhost", "-u", "root", "-p", "root"]
+      timeout: 20s
+      retries: 10
+
+  app:
+    build: .
+    container_name: healthcare_app
+    restart: on-failure
+    depends_on:
+      db:
+        condition: service_healthy
+    env_file:
+      - .env
+    environment:
+      - DB_HOST=db
+    ports:
+      - "8501:8501"
+    volumes:
+      - .:/app
+    command: >
+      bash -c "python main.py && 
+               streamlit run member4/app.py --server.port=8501 --server.address=0.0.0.0"
