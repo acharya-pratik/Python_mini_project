@@ -1,39 +1,47 @@
 # 🏥 Healthcare Data Engineering & ML Pipeline
 
-This project is an end-to-end healthcare analytics system. It automates the journey from raw patient CSV data to a live, interactive dashboard with Machine Learning predictions.
+This project is an end-to-end healthcare analytics system designed for professional-grade data ingestion, automated simulation, and predictive insights.
 
 ## 📁 Project Structure Overview
 
 - **`config/`**: System-wide settings (Database connections, Environment variables).
-- **`member1/`**: ETL (Extract, Transform, Load) logic. The "Data Factory" of the project.
-- **`member2/`**: Database administration and Pipeline Automation (Scheduling).
-- **`member3/`**: Machine Learning Engineering. Features, Training, and Evaluation.
-- **`member4/`**: User Interface. The Streamlit dashboard and prediction engine.
-- **`data/`**: Storage for raw and processed datasets.
+- **`member1/`**: ETL (Extract, Transform, Load) logic and Live Report Generation.
+- **`member2/`**: Database administration, Schema design, and Automation Scheduling.
+- **`member3/`**: Machine Learning Engineering. Focus: High Billing Risk and Length of Stay.
+- **`member4/`**: User Interface. Optimized Streamlit dashboard with real-time AI insights.
+- **`data/simulation/`**: Automated data chunks for the live demo.
 - **`member3_ml/models/`**: Storage for trained `.pkl` model files.
-- **`logs/`**: Historical record of every pipeline run and error.
 
 ---
 
-## 🚀 Execution Guide (What does what?)
+## 🚀 Execution Guide (Docker Optimized)
 
-### 1. The Full Pipeline (`python3 main.py`)
-**Running this does:**
-- Orchestrates the entire system in order.
-- **ETL**: Cleans the CSV and populates the MySQL database.
-- **ML Training**: Trains 3 separate models (Billing, Treatment, Stay).
-- **Validation**: Verifies that the models are accurate before saving.
-**Use this:** When you have new data or want to reset the system.
+### 1. The Live Demo (Dashboard + Automation)
+**Command:** `docker compose up`
+- **What happens:** 
+    - Starts the MySQL database.
+    - Launches the **Automation Runner** in the background (ingests 250 new patients every 60s).
+    - Starts the **Streamlit Dashboard** on `http://localhost:8501`.
+- **Use this:** For the main presentation to show real-time data ingestion and instant AI analysis.
 
-### 2. The Dashboard (`streamlit run member4/app.py`)
-**Running this does:**
-- Launches the web interface.
-- Pulls live data from MySQL.
-- Loads the trained models to give real-time predictions for new patients.
-**Use this:** To visualize insights and interact with the AI.
+### 2. The Trainer (Total Data Learning)
+**Command:** `docker compose run --rm train`
+- **What happens:** 
+    - Extracts the **total accumulated data** from the SQL database.
+    - Trains two models: **High Billing Risk** (Classification) and **Length of Stay** (Regression).
+    - Evaluates performance and saves the optimized `.pkl` files.
+- **Use this:** Whenever you want the AI to learn from the new data added by the simulator.
 
-### 3. The Scheduler (`python3 -m member2.scheduler`)
-**Running this does:**
-- Starts a background "Watchman."
-- Every day (or interval), it automatically triggers the ETL to check for new data.
-**Use this:** In production to keep the database and models up to date without manual work.
+---
+
+## 📊 Dashboard Insights
+
+- **📈 Latest Data Analysis**: Visualizes only the most recent 250 records processed by the automation loop. Shows "Direct Analysis" using pre-trained models.
+- **💰 High Billing Risk**: Identifies patients with potential billing over $30k based on admission data (Age, Condition, etc.).
+- **🛏️ Length of Stay**: Predicts hospital stay duration in days using admission-time features.
+- **✨ Predict New Patient**: Interactive form to get real-time predictions for a custom patient profile.
+
+## 🛠️ Optimization Highlights
+- **Idempotent ETL**: Prevents data duplication even if tasks are repeated.
+- **Dual-Layer Caching**: Historical data is cached for 5 mins; live chunks refresh every 10 seconds for a "snappy" UI.
+- **Data Leakage Fix**: Models now strictly use features available *at admission* for realistic predictions.
