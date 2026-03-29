@@ -1,0 +1,16 @@
+.git
+.ipynb_checkpoints
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.env
+data/simulation/chunks
+data/processed/*.csv
+member3_ml/models/*.pkl
+logs/*.log
+Dockerfile
+docker-compose.yml
+README.md
+GEMINI.md
+test.txt

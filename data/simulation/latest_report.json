@@ -1,0 +1,17 @@
+{
+    "recent": {
+        "count": 250,
+        "avg_billing": 25025.03,
+        "most_common_condition": "Arthritis",
+        "ml_insights": {
+            "high_risk_count": 83,
+            "avg_predicted_stay": 15.6
+        }
+    },
+    "total": {
+        "count": 750,
+        "avg_billing": 25022.78,
+        "most_common_condition": "Diabetes"
+    },
+    "last_updated": "2026-03-29 17:13:14"
+}
